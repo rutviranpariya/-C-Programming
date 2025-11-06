@@ -14,6 +14,8 @@ int main() {
 
     printf("The area of the park is: %.2f square meters\n", area);
     printf("The perimeter of the park is: %.2f meters\n", perimeter);
+     printf("this program is done by Rutvi Ranpariya_25CE100");
 
     return 0;
 }
+
