@@ -30,9 +30,10 @@ int main()
     {
         printf("invalid input,enter correct input");
     }
-    printf("this program is done by Rutvi Ranpariya_25TCEJ9F");
+
     getch();
     printf("Done by Rutvi Ranpariya,ID-25ce100");
     return 0;
 }
+
 
